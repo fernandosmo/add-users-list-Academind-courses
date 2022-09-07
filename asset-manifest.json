@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/add-users-list-Academind-courses/static/css/main.3a4bf960.chunk.css",
+    "main.js": "/add-users-list-Academind-courses/static/js/main.f47c1129.chunk.js",
+    "main.js.map": "/add-users-list-Academind-courses/static/js/main.f47c1129.chunk.js.map",
+    "runtime-main.js": "/add-users-list-Academind-courses/static/js/runtime-main.61f1a4ba.js",
+    "runtime-main.js.map": "/add-users-list-Academind-courses/static/js/runtime-main.61f1a4ba.js.map",
+    "static/js/2.eefc1a49.chunk.js": "/add-users-list-Academind-courses/static/js/2.eefc1a49.chunk.js",
+    "static/js/2.eefc1a49.chunk.js.map": "/add-users-list-Academind-courses/static/js/2.eefc1a49.chunk.js.map",
+    "index.html": "/add-users-list-Academind-courses/index.html",
+    "static/css/main.3a4bf960.chunk.css.map": "/add-users-list-Academind-courses/static/css/main.3a4bf960.chunk.css.map",
+    "static/js/2.eefc1a49.chunk.js.LICENSE.txt": "/add-users-list-Academind-courses/static/js/2.eefc1a49.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.61f1a4ba.js",
+    "static/js/2.eefc1a49.chunk.js",
+    "static/css/main.3a4bf960.chunk.css",
+    "static/js/main.f47c1129.chunk.js"
+  ]
+}
